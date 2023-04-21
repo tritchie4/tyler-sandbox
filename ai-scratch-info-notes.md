@@ -3,8 +3,8 @@
 
 <img width="300" align="right" alt="" src="https://user-images.githubusercontent.com/29279545/233679701-f2739ca9-6742-440e-8fe0-98c172907e5e.png">
 
-- AI
-- Machine Learning - application of AI that provides systems to automatically learn and improve from experience without being programmed by an external source
+- AI - perceiving, synthesizing, and inferring information via machines, as opposed to intelligence displayed by living beings
+- Machine Learning - an application of AI that provides systems to automatically learn and improve from experience without being programmed by an external source
 - Deep Learning - solving problems by emulating the working of human brain
 	- Uses Neural Networks, which use multiple mathematical operations to break down a complex problem into smaller parts (solved individually); each math expression is a "Neuron"
 
