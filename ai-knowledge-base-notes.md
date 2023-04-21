@@ -8,9 +8,10 @@ Section for all of the AI solutions we seek to explore and utilize.
    1. \<what it is>
    2. \<qualities that make it unique>
    3. \<limitations/expectations>
+   4. \<optional link to demo>
 2. \<Tech Solution Name> ...
 
-### Past Proposals Listings
+### Past Proposals Analysis
 
 Section for retroactively applying AI solutions to 2022-2023 completed proposals.
 
